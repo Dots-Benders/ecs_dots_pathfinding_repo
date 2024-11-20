@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace PathFindingEcs.Editors
 {
-    [DisableAutoCreation]
+    //[DisableAutoCreation]
     public partial struct DrawDebugLineSystemForUnit : ISystem
     {
         public void OnUpdate(ref SystemState state)
